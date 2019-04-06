@@ -2,4 +2,4 @@
 *& Include          ZGIT_INCL_LATEST1
 *&---------------------------------------------------------------------*
 
-data ls_zgit_latest1 type ZGIT_LATEST1.
+data zgit_latest1 type ZGIT_LATEST1.
